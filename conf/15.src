@@ -1,0 +1,4 @@
+SOURCE_URL=https://github.com/odoo/odoo/archive/15.0.tar.gz
+SOURCE_FILENAME=15.0.tar.gz
+SOURCE_FORMAT=tar.gz
+SOURCE_SUM_PRG=sha256sum
