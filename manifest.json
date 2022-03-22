@@ -48,8 +48,8 @@
                     "en": "Choose the version you want",
                     "fr": "Choisissez la version désirée"
                 },
-                "choices": ["11", "12", "14"],
-                "default": "14"
+                "choices": ["11", "12", "14", "15"],
+                "default": "15"
             },
             {
                 "name": "oca",
