@@ -2,7 +2,7 @@
 	auto_remove=1
 	; Manifest
 		domain="domain.tld"
-        version="14"
+        version="15"
         oca=0
         admin_password="testpassw0rD"
 		lang="en_US"
